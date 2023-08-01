@@ -1,0 +1,255 @@
+
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+    display: flex;
+
+    
+}
+.user-image{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+.left-box{
+    background-color: #b0ceebcf;
+    width: 350px;
+    padding: 50px;
+}
+
+.right-box{
+    width: 100vw;
+    
+    
+}
+.name-con{
+    /*border: 1px solid black;*/
+    margin-top: 70px;
+    
+}
+.name-con h2{
+    font-family:  sans-serif;
+    text-transform: uppercase;
+    font-size:50px;
+    width: 100%;
+    text-align:center;
+}
+.name-con >h5{
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.left-site-box{
+   
+    color: rgb(14, 13, 13);
+    margin-top: 30px;
+}
+
+.left-site-box > h4 {
+    font-size: 22px;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.contact-sup-con{
+    
+    display: flex;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    
+}
+.contact-sup-con > .icon-con{
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 30px;
+
+}
+.contact-sup-con > .text-con > h5{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 15px;
+    
+}
+.contact-sup-con > .text-con > p{
+    font-size: 13px;
+}
+/* skills digesing pathi mela iruku blac killa pota pora,*/
+
+.skills-sup-con > h5{
+    text-transform: uppercase;
+    margin-top: 15px;
+
+}
+.per-con{
+   /* border: 1px solid black;*/
+    height: 11px;
+    margin-top: 10px;
+    background-color: #fff;
+}
+.per{
+    background-color: black;
+    width: 80%;
+    height: 10px;
+}
+
+/*---follow ----*/
+.fallow-sup-con > h5 {
+    font-size: 20px;
+}
+
+.fallow-sup-con > p{
+    margin-bottom: 10px;
+}
+
+/*----------------------LEFT SIDE COMPLETED----------------------------------------------------------------------------*/
+
+hr{
+    width: 100%;
+}
+
+.objective-rightside{
+    width: 500px;
+    margin-top: 50px;
+    padding-left: 80px;
+}
+
+.objective-right > h2{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    
+    
+    
+}
+
+.objective-right > p {
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-align:justify;
+    
+    
+}
+
+.education-rightside{
+    width: 500px;
+    margin-top: 50px;
+    
+}
+
+.education-right > h2{
+    text-transform: uppercase;
+    font-family: sans-serif;
+   
+}
+
+.education-right > p{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-align:justify;
+    
+}
+
+.project-rightside{
+    width: 500px;
+    
+    margin-top: 40px;
+}
+
+.project-right > h2{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    
+}
+
+.project-right > p{
+    text-transform: capitalize;
+    font-family:sans-serif;
+    font-size: 17px;
+    
+    text-align:justify;
+    font-weight: 500;
+
+}
+
+.prosonal-rightside{
+    font-family: sans-serif;
+    margin-top: 40px;
+
+}
+.prosnal-righ > h2{
+    text-transform: uppercase;
+}
+.prosnal-righ >p{
+    text-transform: capitalize;
+    font-family: 17px;
+}
+
+.project-right >p {
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.declaration-rightside{
+    width: 500px;
+    margin-top: 40px;
+}
+
+.declaration-right > h2{
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.hobbies-rightside{
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.hobbies-right >p{
+    font-size: 17px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
+.declaration-right >p{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-align:justify;
+    
+
+}
+.hobbies-right >hr{
+    width: 100vw;
+    
+}
+.objective-right > hr{
+    width: 100vw;
+}
+.education-right > hr{
+    width: 100vw;
+}
+.project-right > hr{
+    width: 100vw;
+}
+.prosnal-righ > hr{
+    width: 100vw;
+}
+.declaration-right > hr{
+    width: 100vw;
+}
